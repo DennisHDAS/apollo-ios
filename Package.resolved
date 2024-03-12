@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DennisHDAS/SQLite.swift.git",
       "state" : {
-        "revision" : "b84b5c7ca7469506da808b3aafc3e8c1a0859170",
-        "version" : "0.15.0"
+        "revision" : "fd6aec91b9bcb815e764adc7ec96d0243964e319",
+        "version" : "0.15.1"
       }
     }
   ],
